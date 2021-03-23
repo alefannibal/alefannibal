@@ -12,12 +12,13 @@ Oi, meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computa
 - 🎵 Atualmente estou curtindo músicas eletronicas e reggae.
 - 🌍 Ainda sonho em viajar pelo mundo.
 - 💻 Um dos meus melhores orgulhos é atuar na área da computação.
+<br/>
 
 <details>
   <summary> Clique aqui para saber mais sobre mim! </summary>
-<br> <br> 
-<a href="https://github.com/RafaBallerini">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaBallerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<br/> <br/> <br/>
+<a href="https://github.com/AlefAnnibal">
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlefAnnibal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaBallerini&layout=compact&langs_count=8&theme=dracula"/>
 <div>
   
