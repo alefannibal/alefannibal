@@ -46,16 +46,12 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<!-- <a align="right">![Alef GitHub Status](https://github-readme-stats.vercel.app/api?username=AlefAnnibal&show_icons=true&hide_border=true&layout=radical) </a>
-<a align="left"> [![Melhores Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </a> -->
-
-<img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlefAnnibal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title='Meu status github'"/>
-<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaBallerini&layout=compact&langs_count=8&theme=dracula"/>
 
 <a href="https://github.com/RafaBallerini">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaBallerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaBallerini&layout=compact&langs_count=8&theme=dracula"/>
 <div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
