@@ -52,6 +52,5 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlefAnnibal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title='Meu status github'"/>
 <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaBallerini&layout=compact&langs_count=8&theme=dracula"/>
 
-<div style="display: inline_block">
 ⭐️ Copyright © 2021 [Alef Annibal](https://github.com/alefannibal) 
-</div>
+
