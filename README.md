@@ -1,18 +1,5 @@
 ### Olá, Eu sou Alef!
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.kaggle.com/mehdimabrouki">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.instagram.com/mabroukimehdi/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 <br />
 <br />
 
@@ -32,7 +19,7 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 
 <details>
   <summary> Clique aqui para saber mais sobre mim! </summary>
-
+<br> <br> <br>
 <a href="https://github.com/RafaBallerini">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaBallerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaBallerini&layout=compact&langs_count=8&theme=dracula"/>
