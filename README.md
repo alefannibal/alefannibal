@@ -3,7 +3,7 @@
 
 Oi, meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computação em busca de um dia ser um grande programador e desenvolvedor de softwares!
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif" />
+  <img align="right" alt="GIF" src="https://s3.amazonaws.com/tecunica-blogs-content/blogirsemerro/wp-content/uploads/2020/06/02105254/tweet-280.gif" />
 
 **Curiosidades sobre mim**
 
