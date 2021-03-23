@@ -3,7 +3,7 @@
 
 Oi, meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computação em busca de um dia ser um grande programador e desenvolvedor de softwares!
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif" />
 
 **Curiosidades sobre mim**
 
@@ -12,10 +12,6 @@ Oi, meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computa
 - 🎵 Atualmente estou curtindo músicas eletronicas e reggae.
 - 🌍 Ainda sonho em viajar pelo mundo.
 - 💻 Um dos meus melhores orgulhos é atuar na área da computação.
-- - 💻 Um dos meus melhores orgulhos é atuar na área da computação.
-- - 💻 Um dos meus melhores orgulhos é atuar na área da computação.
-- - 💻 Um dos meus melhores orgulhos é atuar na área da computação.
-
 
 <details>
   <summary> Clique aqui para saber mais sobre mim! </summary>
