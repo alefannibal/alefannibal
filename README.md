@@ -1,5 +1,4 @@
 ### Olá, Seja bem vindo!
-<br />
 
 Meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computação em busca de um dia ser um grande programador e desenvolvedor de softwares!
 
@@ -16,7 +15,7 @@ Meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computaçã
 
 <details>
   <summary> Clique aqui para saber mais sobre mim! </summary>
-<br/> <br/> <br/>
+<br/> <br/> 
 <a href="https://github.com/AlefAnnibal">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlefAnnibal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaBallerini&layout=compact&langs_count=8&theme=dracula"/>
