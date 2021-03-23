@@ -1,7 +1,7 @@
 ### Olá, Seja bem vindo!
 <br />
 
-Oi, meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computação em busca de um dia ser um grande programador e desenvolvedor de softwares!
+Meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computação em busca de um dia ser um grande programador e desenvolvedor de softwares!
 
   <img align="right" alt="GIF" src="https://udi-s.sfo3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/07/gif-gato-1519137077.gif" />
 
