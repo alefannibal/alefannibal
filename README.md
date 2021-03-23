@@ -46,7 +46,7 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img align="right" alt="Mehdi's Facebook" src="https://github-readme-stats.vercel.app/api?username=AlefAnnibal&show_icons=true&hide_border=true />
+<a align="right"> <img alt="Mehdi's Facebook" src="https://github-readme-stats.vercel.app/api?username=AlefAnnibal&show_icons=true&hide_border=true/> </a>
 <a align="left"> [![Melhores Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlefAnnibal&layout=compact)](https://github.com/AlefAnnibal/github-readme-stats) </a>
 
 ⭐️ Copyright © 2021 [Alef Annibal](https://github.com/alefannibal)
