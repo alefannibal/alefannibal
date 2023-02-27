@@ -1,6 +1,6 @@
 ### Olá, Seja bem vindo!
 
-<p> Meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computação em busca de um dia ser um grande programador e cientista de dados! </p>
+Meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computação em busca de um dia ser um grande programador e cientista de dados!
 
 </br> 
 
