@@ -11,7 +11,8 @@ Meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computaçã
   <img align="center" alt="Alef-Rstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
 </div>
 
-###
+##
+</br>
 
 <div>
     <a href="https://www.instagram.com/alef_annibal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
