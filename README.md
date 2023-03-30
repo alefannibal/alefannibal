@@ -13,7 +13,9 @@ Meu nome é **Alef Annibal**, atualmente estou cursando Ciências da Computaçã
 
 ##
 
-</br>
+![Snake animation](https://github.com/alefannibal/alefannibal/blob/output/github-contribution-grid-snake.svg)
+
+##
 
 <div>
     <a href="https://www.instagram.com/alef_annibal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" ></a>
